@@ -1,0 +1,3 @@
+something i've learned so far in this course is how to create repositories
+I've also learned to work with branches, resolve workflows with pull requests
+last is how to collaborate via forks
