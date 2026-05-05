@@ -1,0 +1,3 @@
+something i've learned so far in this course are how to work with branches
+i've learned how to create repositories
+i've learned how to resolve workflows with pull request and collaborative via skills
